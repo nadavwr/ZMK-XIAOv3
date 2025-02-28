@@ -15,6 +15,7 @@
 include:
   - board: seeeduino_xiao_ble
     shield: xiao3_left
+    snippet: zmk-usb-logging
   - board: seeeduino_xiao_ble
     shield: xiao3_right  
   - board: seeeduino_xiao_ble
